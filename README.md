@@ -136,8 +136,8 @@ Multimedia keys control volume, playback, microphone mute, and screen brightness
 ### 1. Clone
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/gotham.git
-cd gotham
+git clone https://github.com/bat-fun/minimal-rice.git
+cd rice
 ```
 
 ### 2. Back up your existing config
